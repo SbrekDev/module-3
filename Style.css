@@ -1,0 +1,49 @@
+
+#navbarSupportedContent {
+    text-align: center;
+}
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-brand h1 {
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.5em;
+}
+body {
+  background: #f6b319;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+h2 {
+    text-align: center;
+    font-size: 1.5em;
+    padding-top: 25px;
+}
+.container {
+    padding: 25px;
+
+}
+.container h3 {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#container-category-Chicken {
+    padding: 25px;
+    background-color: rgb(207, 207, 207);
+    margin-bottom: 25px;
+}
+#container-category-Beef {
+    padding: 25px;
+    background-color: rgb(207, 207, 207);
+    margin-bottom: 25px;
+}
+#container-category-Sushi {
+    padding: 25px;
+    background-color: rgb(207, 207, 207);
+    margin-bottom: 25px;
+}
